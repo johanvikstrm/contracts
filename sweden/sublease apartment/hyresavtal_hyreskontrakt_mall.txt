@@ -1,0 +1,47 @@
+Hyresavtal
+
+Uthyraren: 
+[Förnamn Efternamn]
+[Personnummer]
+[Adress]
+[Telenummer och e-post]	Hyrestagarens: 
+[Förnamn Efternamn]
+[Personnummer]
+[Adress]
+[Telenummer och e-post]
+
+Beskrivning av objekt:
+[text text text]
+
+Hyra och deposition
+Hyran [per månad/timme/minut/för hela perioden] är: [siffra] kronor
+
+Hyrestagarens har betalat en deposition om [siffra] kr. Detta belopp återbetalas efter besiktning och godkännande av hyresobjektet.
+
+Skada på hyresobjekt
+Om skada uppstår ska hyrestagaren betala en självrisk om högst [siffra] kr.
+
+Hyresperiod
+[2000-01-01 kl.10.00] till och med [2000-08-31 kl. 10.00].
+Återlämnande av hyresobjekt ska vid hyresperiodens slut ske till [osv osv].
+
+Aktsamhet
+Hyrestagaren ska vårda hyresobjektet väl
+
+Överlåtande
+Hyrestagaren får inte utan skriftligt medgivande från uthyraren upplåta eller överlåta den det hyrda objektet.
+
+Hyreskontrakt
+Det här hyresavtalet har upprättats i två likadana exemplar. Hyrestagaren och uthyraren har var sitt av dessa. Genom sin underskrift kvitterar hyrestagaren [siffra] nycklar till bostaden.
+
+Övriga bestämmelser
+[Här skriver ni eventuella ytterligare bestämmelser som ni vill kontraktet ska gälla]
+
+Underskrifter
+
+Ort och datum: [Ort och datum]
+Uthyrare:
+Namnteckning:…………………………
+Namnförtydligande: [Förnamn Efternamn]	Hyrestagare:
+Namnteckning:…………………………
+Namnförtydligande: [Förnamn Efternamn] 

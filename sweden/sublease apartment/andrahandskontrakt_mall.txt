@@ -1,0 +1,84 @@
+Andrahandskontrakt
+
+Uthyraren: 
+[Förnamn Efternamn]
+[Personnummer]
+[Adress]
+ [Telenummer och e-post]
+	Andrahandshyrestagaren: 
+[Förnamn Efternamn]
+[Personnummer]
+[Adress]
+[Telenummer och e-post]
+
+Beskrivning av objekt
+Antal rum: [siffra]
+Antal kvadratmeter: [siffra]
+Objektets adress: [adress]
+Bostaden uthyrs: [möblerad/omöblerad]
+
+Hyra och deposition
+Hyran [per månad/för hela perioden] är: [siffra] kronor
+Hyra skall betalas i förskott utan uppmaning.
+Vid månadshyra ska hyran betalas senast den [siffra] månaden före.
+Hyran betalas till:
+Namn: [Förman Efternamn]  
+Clearingnummer och kontonummer: [Clearingnummer och kontonummer]
+Bank: [Bankens namn]
+
+Andrahandshyrestagarens har betalat en deposition om [siffra] kr. Detta belopp återbetalas efter besiktning och godkännande av lägenheten i samband med andrahandshyrestagarens avflyttning.
+
+Hyresperiod
+[2000-01-01] till och med [2000-08-31/tills vidare med ömsesidig uppsägning om minst [siffra] månader]. Detta kontrakt slutar att gälla vid hyresperiodens utgång alternativt i enlighet med uppsägning. Andrahandshyrestagaren ska då flytta utan uppmaning. 
+
+Ytterligare kostnader
+Utöver hyran ska även kostnader i enlighet med nedanstående erläggas av Andrahandshyrestagaren.
+El: [månatlig/total kostnad] (elmätarens inställning per [datum])
+Telefon: [månatlig/total kostnad]
+TV: [månatlig/total kostnad]
+Annat: [månatlig/total kostnad]
+
+Reparationer
+Andrahandshyrestagaren ska stå för kostnaderna gällande sådant som kan vara att anse löpande mindre underhåll som exempelvis: strömbrytare, packningar, mindre service av hushållsmaskiner och liknande.
+
+Underhåll
+Andrahandshyrestagaren får inte (utan skriftligt tillstånd från uthyraren) måla eller tapetsera om. Övriga liknande ingripande får inte heller göras utan samma typ av tillstånd.
+
+Inventarier
+I uthyrningen ingår inventarier enligt följande lista:
+[exempelvis TV]
+[exempelvis soffa]
+[exempelvis säng]
+[exempelvis tavlor]
+[osv.]
+Det är Andrahandshyrestagaren ansvar att se till att inventarierna inte blir skadade eller förloras. I dessa fall ska Andrahandshyrestagaren ersätta dessa. Det är [Uthyraren/ Andrahandshyrestagaren] som ansvarar för att de hålls försäkrade.
+
+Aktsamhet
+Andrahandshyrestagaren ska vårda den hyrda bostaden väl. Eventuella skador som inträffar ska Andrahandshyrestagaren ansvara, för givet att denne inte kan visa att denne (och inte heller någon denne svarar för) inte orsakat skadan.
+
+Överlåtande
+Andrahandshyrestagaren får inte utan skriftligt medgivande från uthyraren upplåta eller överlåta den hyrda bostaden.
+
+Tillstånd från fastighetsägare
+Det är uthyrarens ansvar att inhämta nödvändiga tillstånd från fastighetsägaren.
+
+Ordningsregler
+Andrahandshyrestagaren ansvarar för att efterleva de ordningsregler som gäller för uthyraren gentemot fastighetsägaren. 
+
+Särskilda bestämmelser
+[Här skriver ni eventuella ytterligare bestämmelser som ni vill kontraktet ska gälla]
+
+Hyreskontrakt
+Det här andrahandskontraktet har upprättats i två likadana exemplar. Andrahandshyrestagaren och Uthyraren har var sitt av dessa. Genom sin underskrift kvitterar Andrahandshyrestagaren [siffra] nycklar till bostaden.
+
+Underskrifter
+
+Ort och datum: [Ort och datum]
+
+Uthyrare:
+Namnteckning:…………………………
+Namnförtydligande: [Förnamn Efternamn]
+	Andrahandshyrestagare:
+Namnteckning:…………………………
+Namnförtydligande: [Förnamn Efternamn]
+
