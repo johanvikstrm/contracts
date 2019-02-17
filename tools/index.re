@@ -1,5 +1,9 @@
 open Cmdliner;
 
+Fmt_tty.setup_std_outputs();
+Logs.set_level(Some(Logs.Debug));
+Logs.set_reporter(Logs_fmt.reporter());
+
 module Contract_index = {
   type hit = {
     country: string,
@@ -9,32 +13,31 @@ module Contract_index = {
   };
 
   let find_all = root => {
-    let rec fall: (list(Fpath.t), Fpath.t) => list(Fpath.t) =
-      (acc, path) => {
-        Bos.OS.(
-          switch (Dir.contents(path)) {
-          | Ok(contents) => contents |> List.map(fall(acc)) |> List.flatten
-          | _ => acc |> List.rev
-          }
-        );
+    let rec fall = (acc, path) => {
+      switch (Bos.OS.Dir.contents(path)) {
+      | Ok(contents) =>
+        List.concat([
+          contents,
+          contents |> List.map(fall(acc)) |> List.flatten,
+        ])
+      | _ => acc |> List.rev
       };
+    };
     fall([], root);
   };
 
   let create = () => {
-    let files = Fpath.(v("./contents") |> to_dir_path) |> find_all;
+    Logs.app(m => m("Finding all contracts..."));
+    let files = Fpath.v("contracts") |> find_all;
     files |> List.iter(x => Logs.app(m => m("%s", x |> Fpath.to_string)));
+    Logs.app(m => m("Found %d contracts.", files |> List.length));
   };
 };
 
 module Cli = {
-  let cmd = Term.(const(Contract_index.create));
+  let cmd = Term.(const(Contract_index.create) $ pure());
 
   let run = () => {
-    Fmt_tty.setup_std_outputs();
-    Logs.set_level(Some(Logs.Debug));
-    Logs.set_reporter(Logs_fmt.reporter());
-
     Term.((cmd, info("index-creator")) |> eval |> exit);
   };
 };
