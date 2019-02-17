@@ -12,9 +12,8 @@ module Contract_index = {
     let rec fall: (list(Fpath.t), Fpath.t) => list(Fpath.t) =
       (acc, path) => {
         Bos.OS.(
-          switch (path |> Fpath.is_dir_path) {
-          | true =>
-            Bos.OS.Dir.contents(path) |> List.map(fall(acc)) |> List.flatten
+          switch (Dir.contents(path)) {
+          | Ok(contents) => contents |> List.map(fall(acc)) |> List.flatten
           | _ => acc |> List.rev
           }
         );
