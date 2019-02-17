@@ -1,0 +1,3 @@
+(executable
+  (name index)
+  (libraries bos cmdliner fmt fmt.tty logs logs.fmt fpath))
