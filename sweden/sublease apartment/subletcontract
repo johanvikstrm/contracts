@@ -1,245 +1,77 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf200
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPS-BoldMT;\f1\fswiss\fcharset0 Helvetica-Bold;\f2\fswiss\fcharset0 Helvetica;
-\f3\froman\fcharset0 TimesNewRomanPSMT;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab1304
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
 
-\f0\b\fs24 \cf0 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\sb480\sa120\partightenfactor0
+Subletting contract 
 
-\f1\fs72 \cf0 Subletting contract \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
+Landlord
+Surname
+	First name
+	Town name
 
-\f0\fs24 \cf0 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
+Postal address
+	Postal number	Phone number
+Personal number/Organization number
+		
 
-\f1 \cf0 Landlord\
+Tenant
+Surname	First name	Current Town name
+Current Postal address
+	Current Postal number	Phone number
+Personal number	Program or Course
+	
 
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth9546\trftsWidth3 \trbrdrt\brdrs\brdrw20\brdrcf0 \trbrdrl\brdrs\brdrw20\brdrcf0 \trbrdrr\brdrs\brdrw20\brdrcf0 
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx2880
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx5760
-\clvertalt \clshdrawnil \clwWidth3181\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx8640
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
+Rental item
+Address of apartment
+	Object name
+Town name
+	Postal number
 
-\f2\b0\fs20 \cf0 Surname\
-\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 First name\
-\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Town name\
-\cell \row
+§1	The landlord rents out .......  rooms for housing to the tenant. The living space in total is ........ m2 
+ 
+§2	Alternative 1: Rental time from ............................................ henceforth. 
+ 	Lease agreement expires at the end of the month that occurs ....... months after termination.
+ 
+	Alternative 2: Rental time from ............................................ until ........................................... with ...... months 
+notice of termination. The lease agreement expires at the end of the rental period. The rental guest shall move out without request. (This alternative can be used only if the rental time is 9 months or less). 
+ 
+§3 	The rent is .......................... SEK per month. The rent is paid one month ahead. 
+ 
+§4 	In the rent the following is included: (  )Electricity, (  )Heat, (  )Stairwell cleaning, (  )Garage,
+           (  )Telephone, (  )Private toilet, (  )Separate kitchen / kitchenette, (  ) Internet. 
 
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth9546\trftsWidth3 \trbrdrl\brdrs\brdrw20\brdrcf0 \trbrdrr\brdrs\brdrw20\brdrcf0 
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx2880
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx5760
-\clvertalt \clshdrawnil \clwWidth3181\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx8640
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Postal address\
-\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Postal number\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Phone number\cell \row
+The living space is rented out:  (  ) Furnished, (  ) Unfurnished. 
 
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth9546\trftsWidth3 \trbrdrl\brdrs\brdrw20\brdrcf0 \trbrdrb\brdrs\brdrw20\brdrcf0 \trbrdrr\brdrs\brdrw20\brdrcf0 
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx2880
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx5760
-\clvertalt \clshdrawnil \clwWidth3181\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx8640
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Personal number/Organization number\
-\cell 
-\pard\intbl\itap1\pardeftab1304\ri-52\sl276\slmult1\partightenfactor0
+Rent includes access to: (  ) Kitchen, (  ) Washing machine, (  )Toilet / shower, 
+(  )Common area 
+ 
+§5	The landlord is responsible for the proper operation of vital equipment, such as electricity switches, washing machine, pickings’ in faucets and so on, in accordance with agreements between the landlord and the property owner. In cases where the landlord is the property owner, he is solely responsible. 
+ 
+§6 	The tenant may not, without the landlord's written consent, carry out painting,
+	wallpapering or any comparable measure. 
+ 
+§7	The rental includes furniture according to the attached list of inventory. The tenant acknowledges the inventory by signing the list of inventory.
+After the lease expires, the landlord signs the tenants copy of the list of inventory or otherwise acknowledges restoration of the inventory. The tenant is responsible for damage or loss of inventory. 
+ 
+§8 	The tenant is responsible for arranging a separate home insurance for their belongings. 
+ 
+§9	The tenant must take good care of the rented property. Should damage occur, the tenant is responsible therefore, unless he can demonstrate that he is not responsible for causing the damage.
+ 
+§10	The tenant shall not, without permission, make available or rent out all or part of residential 	space.
+ 
+§11	The landlord must obtain permit to rent out the property from the property owner.
+ 
+§12	The tenant commits to respect the code of conduct the landlord has to comply in relation to 	the property owner.
+ 
+§13 	Special regulations ......................................................................................................................................................
+ 
+§14 	This lease has been drawn up in two separate copies, of which the landlord and the tenant 	has taken one each.
+ 
+By signature the tenant acknowledge he has received ....... keys to the accommodation.
 
-\f3 \cf0 \cell 
-\pard\intbl\itap1\pardeftab1304\ri-52\sl276\slmult1\partightenfactor0
-\cf0 \cell \lastrow\row
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
+Number of attachments to this lease ........... 
+ 
 
-\fs14 \cf0 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
+Place and date …............................................ 
 
-\f1\b\fs24 \cf0 Tenant\
 
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth9546\trftsWidth3 \trbrdrt\brdrs\brdrw20\brdrcf0 \trbrdrl\brdrs\brdrw20\brdrcf0 \trbrdrr\brdrs\brdrw20\brdrcf0 
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx2880
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx5760
-\clvertalt \clshdrawnil \clwWidth3181\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx8640
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
+Landlord ..................................................................    Tenant ....................................................................
 
-\f2\b0\fs20 \cf0 Surname\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 First name\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Current Town name\cell \row
-
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth9546\trftsWidth3 \trbrdrl\brdrs\brdrw20\brdrcf0 \trbrdrr\brdrs\brdrw20\brdrcf0 
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx2880
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx5760
-\clvertalt \clshdrawnil \clwWidth3181\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx8640
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Current Postal address\
-\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Current Postal number\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Phone number\cell \row
-
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth9546\trftsWidth3 \trbrdrl\brdrs\brdrw20\brdrcf0 \trbrdrb\brdrs\brdrw20\brdrcf0 \trbrdrr\brdrs\brdrw20\brdrcf0 
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx2880
-\clvertalt \clshdrawnil \clwWidth3182\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx5760
-\clvertalt \clshdrawnil \clwWidth3181\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx8640
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Personal number\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Program or Course\
-\cell 
-\pard\intbl\itap1\pardeftab1304\ri-52\sl276\slmult1\partightenfactor0
-
-\f3 \cf0 \cell \lastrow\row
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-
-\fs14 \cf0 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-
-\f1\b\fs24 \cf0 Rental item\
-
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth9546\trftsWidth3 \trbrdrt\brdrs\brdrw20\brdrcf0 \trbrdrl\brdrs\brdrw20\brdrcf0 \trbrdrr\brdrs\brdrw20\brdrcf0 
-\clvertalt \clshdrawnil \clwWidth4773\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx4320
-\clvertalt \clshdrawnil \clwWidth4773\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx8640
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-
-\f2\b0\fs20 \cf0 Address of apartment\
-\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Object name\cell \row
-
-\itap1\trowd \taflags1 \trgaph108\trleft-108 \trwWidth9546\trftsWidth3 \trbrdrl\brdrs\brdrw20\brdrcf0 \trbrdrb\brdrs\brdrw20\brdrcf0 \trbrdrr\brdrs\brdrw20\brdrcf0 
-\clvertalt \clshdrawnil \clwWidth4773\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx4320
-\clvertalt \clshdrawnil \clwWidth4773\clftsWidth3 \clbrdrt\brdrs\brdrw20\brdrcf0 \clbrdrl\brdrs\brdrw20\brdrcf0 \clbrdrb\brdrs\brdrw20\brdrcf0 \clbrdrr\brdrs\brdrw20\brdrcf0 \clpadt108 \clpadl0 \clpadr108 \gaph\cellx8640
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Town name\
-\cell 
-\pard\intbl\itap1\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0 Postal number\cell \lastrow\row
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-
-\f3 \cf0 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-
-\f1\b \cf0 \'a71
-\f3\b0 	
-\f2 The landlord rents out .......  rooms for housing to the tenant. The living space in total is ........ m2 \
- \
-
-\f1\b \'a72	
-\f2\b0 Alternative 1: Rental time from ............................................ henceforth. \
- 	Lease agreement expires at the end of the month that occurs ....... months after termination.\
- \
-	Alternative 2: Rental time from ............................................ until ........................................... with ...... months \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\li560\ri-52\partightenfactor0
-\cf0 notice of termination. The lease agreement expires at the end of the rental period. The rental guest shall move out without request. (This alternative can be used only if the rental time is 9 months or less). \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0  \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-
-\f1\b \cf0 \'a73 
-\f3\b0 	
-\f2 The rent is .......................... SEK per month. The rent is paid one month ahead. \
- \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\li560\fi-560\ri-52\partightenfactor0
-
-\f1\b \cf0 \'a74 
-\f3\b0 	
-\f2 In the rent the following is included: (  )Electricity, (  )Heat, (  )Stairwell cleaning, (  )Garage,\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0            (  )Telephone, (  )Private toilet, (  )Separate kitchen / kitchenette, (  ) Internet. \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\li560\fi-560\ri-52\partightenfactor0
-
-\f3 \cf0 \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\li1280\fi-560\ri-52\qj\partightenfactor0
-
-\f2 \cf0 The living space is rented out:  (  ) Furnished, (  ) Unfurnished. \
-\
-Rent includes access to: (  ) Kitchen, (  ) Washing machine, (  )Toilet / shower, \
-(  )Common area \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0  \
-\pard\pardeftab1304\li567\fi-567\ri-52\partightenfactor0
-
-\f1\b \cf0 \'a75
-\f3\b0 	
-\f2 The landlord is responsible for the proper operation of vital equipment, such as electricity switches, washing machine, pickings\'92 in faucets and so on, in accordance with agreements between the landlord and the property owner. In cases where the landlord is the property owner, he is solely responsible. \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0  \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-
-\f1\b \cf0 \'a76 
-\f3\b0 	
-\f2 The tenant may not, without the landlord's written consent, carry out painting,\
-	wallpapering or any comparable measure. \
- \
-\pard\pardeftab1304\li567\fi-567\ri-52\partightenfactor0
-
-\f1\b \cf0 \'a77
-\f3\b0 	
-\f2 The rental includes furniture according to the attached list of inventory. The tenant acknowledges the inventory by signing the list of inventory.\
-\pard\pardeftab1304\li567\ri-52\partightenfactor0
-\cf0 After the lease expires, the landlord signs the tenants copy of the list of inventory or otherwise acknowledges restoration of the inventory. The tenant is responsible for damage or loss of inventory. \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0  \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-
-\f1\b \cf0 \'a78
-\f2\b0  	The tenant is responsible for arranging a separate home insurance for their belongings. \
- \
-\pard\pardeftab1304\li567\fi-567\ri-52\partightenfactor0
-
-\f1\b \cf0 \'a79
-\f3\b0 	
-\f2 The tenant must take good care of the rented property. Should damage occur, the tenant is responsible therefore, unless he can demonstrate that he is not responsible for causing the damage.\
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-\cf0  \
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardeftab1304\ri-52\partightenfactor0
-
-\f1\b \cf0 \'a710
-\f3\b0 	
-\f2 The tenant shall not, without permission, make available or rent out all or part of residential 	space.\
- \
-
-\f1\b \'a711
-\f3\b0 	
-\f2 The landlord must obtain permit to rent out the property from the property owner.\
- \
-
-\f1\b \'a712
-\f3\b0 	
-\f2 The tenant commits to respect the code of conduct the landlord has to comply in relation to 	the property owner.\
- \
-
-\f1\b \'a713
-\f2\b0  	Special regulations ......................................................................................................................................................\
- \
-
-\f1\b \'a714 	
-\f2\b0 This lease has been drawn up in two separate copies, of which the landlord and the tenant 	has taken one each.\
- \
-By signature the tenant acknowledge he has received ....... keys to the accommodation.\
-\
-Number of attachments to this lease ........... \
- \
-\pard\pardeftab1304\ri-52\partightenfactor0
-
-\f3 \cf0 \
-\pard\pardeftab1304\ri-52\partightenfactor0
-
-\f2 \cf0 Place and date \'85............................................ \
-\
-\
-Landlord ..................................................................    Tenant ....................................................................\
-\
-Printed name ............................................................    Printed name \'85......................................................\
-}
+Printed name ............................................................    Printed name …......................................................
