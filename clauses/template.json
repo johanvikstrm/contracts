@@ -1,0 +1,15 @@
+{
+  "name": "Awesome Clause",
+  "description": "It makes your contract awesome",
+  "content": "This is the contents of the clause, my name is $NAME, I'm a $GENDER",
+  "categories": [ "awesome", "apartments", "stuff" ],
+  "inputs": [
+    { "name": "$NAME",  
+      "type": "text",
+      "description": "The name of the contract owner" },
+    { "name": "$GENDER",  
+      "type": "choice",
+      "choices": [ "male", "female", "other" ],
+      "description": "The gender of the contract owner" }
+  ]
+}
